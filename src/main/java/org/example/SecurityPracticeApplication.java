@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class SecurityPracticeApplication {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }

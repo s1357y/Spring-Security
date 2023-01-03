@@ -1,11 +1,10 @@
 plugins {
     id 'java'
-    // spring boot version 2.5.2
-    id 'org.springframework.boot' version '2.5.2'
+    // spring boot version 3.0.1
+    id 'org.springframework.boot' version '3.0.1'
     id "io.spring.dependency-management" version "1.0.11.RELEASE"
 }
 
-group 'me.benny'
 version '1.0-SNAPSHOT'
 
 repositories {
